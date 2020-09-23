@@ -67,7 +67,7 @@ TEMPLATES = [
     },
 ]
 
-WSGI_APPLICATION = 'qcon.wsgi.application'
+WSGI_APPLICATION = 'wsgi.application'
 
 
 # Database
